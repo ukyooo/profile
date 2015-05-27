@@ -94,7 +94,6 @@ LinkedIn      http://www.linkedin.com/in/ukyooo
 mixi          http://id.mixi.jp/ukyooo
 MySpace       http://www.myspace.com/ukyooo
 フォト蔵      http://photozou.jp/user/top/197755
-orkut         http://www.orkut.com/Main#Profile.aspx?uid=14136909383552844349
 Path          https://www.path.com/ukyooo
 Picasa        http://picasaweb.google.com/ukyooo
 Posterous     http://ukyooo.posterous.com/
