@@ -98,7 +98,7 @@ Path          https://www.path.com/ukyooo
 Picasa        http://picasaweb.google.com/ukyooo
 Posterous     http://ukyooo.posterous.com/
 Tumblr        http://ukyooo.tumblr.com/
-Twitter       https://twitter.com/#!/ukyooo
+Twitter       https://twitter.com/ukyooo
 Ustream.TV    http://www.ustream.tv/user/ukyooo
 VOX           http://ukyooo.vox.com/
 YouTube       http://www.youtube.com/user/ukyooo
