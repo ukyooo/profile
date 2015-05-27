@@ -6,6 +6,24 @@ Ukyoo!'s Profile
 
 
 
+----
+
+======================= ==================================================
+key                     value
+======================= ==================================================
+氏名                    前田 宇享
+Name                    Ukyo Maeda
+ニックネーム            Ukyoo!
+id                      ukyooo
+誕生日
+血液型
+出身地
+Email                   ukyooo@gmail.com
+Skype                   ukyooo
+======================= ==================================================
+
+----
+
 略歴
 ========================
 
@@ -56,28 +74,34 @@ Ukyoo!'s Profile
 
 ----
 
-============= =====================================
+リンク
+========================
+
+============= ====================================================================
 site          URL
-============= =====================================
-mixi          http://id.mixi.jp/ukyooo
-Twitter       https://twitter.com/#!/ukyooo
-Hatena        http://www.hatena.ne.jp/ukyooo/
-FriendFeed    http://friendfeed.com/ukyooo
+============= ====================================================================
+about.me      http://about.me/ukyooo
+Blogger       http://ukyooo.blogspot.com/
+flickr        http://www.flickr.com/photos/ukyooo/
 Facebook      http://www.facebook.com/ukyooo
 Foursquare    http://foursquare.com/ukyooo
-Picasa        http://picasaweb.google.com/ukyooo
-YouTube       http://www.youtube.com/user/ukyooo
-Ustream.TV    http://www.ustream.tv/user/ukyooo
-Blogger       http://ukyooo.blogspot.com/
-LinkedIn      http://www.linkedin.com/in/ukyooo
-Tumblr        http://ukyooo.tumblr.com/
-GREE          http://gree.jp/ukyooo
-MySpace       http://www.myspace.com/ukyooo
-VOX           http://ukyooo.vox.com/
+FriendFeed    http://friendfeed.com/ukyooo
 GitHub        https://github.com/ukyooo
-Posterous     http://ukyooo.posterous.com/
-flickr        http://www.flickr.com/photos/ukyooo/
-about.me      http://about.me/ukyooo
 Google+       https://profiles.google.com/ukyooo
-============= =====================================
+GREE          http://gree.jp/ukyooo
+Hatena        http://www.hatena.ne.jp/ukyooo/
+LinkedIn      http://www.linkedin.com/in/ukyooo
+mixi          http://id.mixi.jp/ukyooo
+MySpace       http://www.myspace.com/ukyooo
+フォト蔵      http://photozou.jp/user/top/197755
+orkut         http://www.orkut.com/Main#Profile.aspx?uid=14136909383552844349
+Path          https://www.path.com/ukyooo
+Picasa        http://picasaweb.google.com/ukyooo
+Posterous     http://ukyooo.posterous.com/
+Tumblr        http://ukyooo.tumblr.com/
+Twitter       https://twitter.com/#!/ukyooo
+Ustream.TV    http://www.ustream.tv/user/ukyooo
+VOX           http://ukyooo.vox.com/
+YouTube       http://www.youtube.com/user/ukyooo
+============= ====================================================================
 
