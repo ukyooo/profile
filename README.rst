@@ -89,6 +89,7 @@ Facebook      http://www.facebook.com/ukyooo
 Foursquare    http://foursquare.com/ukyooo
 FriendFeed    http://friendfeed.com/ukyooo
 GitHub        https://github.com/ukyooo
+GitHub Pages  https://ukyooo.github.io/
 Google+       https://profiles.google.com/ukyooo
 GREE          http://gree.jp/ukyooo
 Hatena        http://www.hatena.ne.jp/ukyooo/
