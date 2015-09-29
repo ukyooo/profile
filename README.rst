@@ -92,6 +92,7 @@ GitHub        https://github.com/ukyooo
 Google+       https://profiles.google.com/ukyooo
 GREE          http://gree.jp/ukyooo
 Hatena        http://www.hatena.ne.jp/ukyooo/
+Instagram     https://instagram.com/ukyooo/
 LinkedIn      http://www.linkedin.com/in/ukyooo
 mixi          http://id.mixi.jp/ukyooo
 MySpace       http://www.myspace.com/ukyooo
