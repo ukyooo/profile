@@ -15,9 +15,8 @@ key                     value
 Name                    Ukyo Maeda
 ニックネーム            Ukyoo!
 id                      ukyooo
-誕生日
-血液型
-出身地
+誕生日                  1981/10/20
+血液型                  O
 Email                   ukyooo@gmail.com
 Skype                   ukyooo
 ======================= ==================================================
@@ -84,6 +83,7 @@ site          URL
 ============= ====================================================================
 about.me      http://about.me/ukyooo
 Blogger       http://ukyooo.blogspot.com/
+Eight         https://8card.net/p/ukyooo
 flickr        http://www.flickr.com/photos/ukyooo/
 Facebook      http://www.facebook.com/ukyooo
 Foursquare    http://foursquare.com/ukyooo
