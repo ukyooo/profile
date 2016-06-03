@@ -108,6 +108,7 @@ Tumblr        http://ukyooo.tumblr.com/
 Twitter       https://twitter.com/ukyooo
 Ustream.TV    http://www.ustream.tv/user/ukyooo
 VOX           http://ukyooo.vox.com/
+Wantedly      https://www.wantedly.com/users/105416
 YouTube       http://www.youtube.com/user/ukyooo
 ============= ====================================================================
 
