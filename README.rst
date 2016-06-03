@@ -26,9 +26,9 @@ Skype                   ukyooo
 略歴
 ========================
 
-======================= ==================================================
+======================= ==========================================================
 時期                    内容
-======================= ==================================================
+======================= ==========================================================
 1981年10月20日          誕生
 1981年10月              長野県 安曇野市 居住
 1985年04月              穂高町立（現：安曇野市立）有明保育園 入園
@@ -69,7 +69,8 @@ Skype                   ukyooo
 2014年04月14日          第二子 (長女) 第三子 (次女) 誕生
 2014年06月              株式会社 アイリッジ 退社
 2014年07月              株式会社 ShowcaseGig 入社
-======================= ==================================================
+2016年07月 - 2016年09月 グロービス経営大学院 単科生 (クリティカル・シンキング)
+======================= ==========================================================
 
 
 
@@ -83,6 +84,7 @@ site          URL
 ============= ====================================================================
 about.me      http://about.me/ukyooo
 Blogger       http://ukyooo.blogspot.com/
+branded.me    https://branded.me/ukyooo
 Eight         https://8card.net/p/ukyooo
 flickr        http://www.flickr.com/photos/ukyooo/
 Facebook      http://www.facebook.com/ukyooo
@@ -101,11 +103,11 @@ MySpace       http://www.myspace.com/ukyooo
 Path          https://www.path.com/ukyooo
 Picasa        http://picasaweb.google.com/ukyooo
 Posterous     http://ukyooo.posterous.com/
+Qiita         http://qiita.com/ukyooo
 Tumblr        http://ukyooo.tumblr.com/
 Twitter       https://twitter.com/ukyooo
 Ustream.TV    http://www.ustream.tv/user/ukyooo
 VOX           http://ukyooo.vox.com/
 YouTube       http://www.youtube.com/user/ukyooo
-Qiita         http://qiita.com/ukyooo
 ============= ====================================================================
 
