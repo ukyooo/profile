@@ -88,6 +88,7 @@ site                    URL
 about.me                http://about.me/ukyooo
 Blogger                 http://ukyooo.blogspot.com/
 branded.me              https://branded.me/ukyooo
+CoffeeMeeting           http://coffeemeeting.jp/ukyooo
 Eight                   https://8card.net/p/ukyooo
 flickr                  http://www.flickr.com/photos/ukyooo/
 Facebook                http://www.facebook.com/ukyooo
